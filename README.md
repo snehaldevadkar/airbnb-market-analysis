@@ -39,7 +39,7 @@ This analysis explores questions that matter when evaluating a short-term rental
 
 The Power BI dashboard presents the analysis through two views.
 
-### 01 — Overview Of NYK
+### 01 — Overview Of NYC
 
 A high-level view of NYC Airbnb listings, designed to make the overall market easier to understand.
 
